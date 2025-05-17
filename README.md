@@ -1,17 +1,17 @@
 # imers-o-alura-IA
 # ✨ Olha só: O Agente que Dá Voz e Alma às Fotos! ✨
 
-Olá! Seja muito bem-vindo(a) ao projeto "Olha só", onde a Inteligência Artificial encontra a inclusão de um jeito super especial e divertido! 😄
+Olá! Seja muito bem-vindo(a) ao projeto "Olha só", onde a Inteligência Artificial encontra a inclusão de um jeito super especial. 😄
 
 ## 🤩 Qual é a Grande Ideia?
 
-Sabe aquela foto linda que você tirou, ou aquela imagem que chegou no grupo da família? Ou ainda uma foto tirada num museu ou exposição que você esta visitando naquele momento? E se você não pudesse *vê-la*? Pois é! O "Olha só" nasce com um coração gigante para ajudar **pessoas cegas e com baixa visão** a *sentir* essas imagens.
+Sabe aquela foto linda que você tirou ou aquela imagem que chegou no grupo da família? Ou ainda uma foto tirada num museu ou exposição que você esta visitando naquele momento? E se você não pudesse *vê-la*? Pois é! O "Olha só" nasce com um coração gigante para ajudar **pessoas cegas e com baixa visão** a também a se conectar a essas imagens.
 
-Nosso objetivo é transformar a visualização de fotos em uma experiência auditiva completa e envolvente! Chega de barreiras na comunicação visual! Com o "Olha só", uma foto se transforma em uma audiodescrição detalhada e empolgante, permitindo que todos "vejam" e interajam com o mundo das imagens de uma forma mais fluida e independente. É a comunicação sem limites, turbinada pela IA! 😎
+Nosso objetivo é transformar a visualização de fotos em uma experiência auditiva completa e envolvente! Chega de barreiras na comunicação visual! Com o "Olha só", uma foto se transforma em uma audiodescrição detalhada e empolgante, permitindo que todos "vejam" e interajam com o mundo das imagens de uma forma mais fluida e autônoma. É a comunicação sem limites, turbinada pela IA! 😎
 
 ## 🤩 Como nasceu a Ideia?
 
-Sou casado com a Cintia, que além de ser diretora teatral, dramaturga e roteirista, também é audiodescritora. Eu estava querendo fazer um projeto envolvendo leitura de imagens e geração de conteúdo com base nessa técnica, pois também sou fotografo. Ela então me deu a dica de usar os agentes para leitura e audiodescrição para ajudar nossos amigos cegos e de baixa visão a ter uma vida com maior qualidade e com mais acesso. No final, meu enteado Pedro deu o  nome "Olha só", que além de ter tudo a ver com a dinamica dos agentes, também enfatiza a questão de independencia das pessoas com deficiencia, pois a palavra "só" é bem enfática nesse sentido.
+Sou casado com a Cintia, que além de ser diretora teatral, dramaturga e roteirista, também é audiodescritora. Eu estava querendo fazer um projeto envolvendo leitura de imagens e geração de conteúdo com base nessa técnica, pois também sou fotografo. Ela então me deu a dica de usar os agentes para leitura e audiodescrição para ajudar nossos amigos cegos e com baixa visão a ter uma vida com maior acesso e autonomia. No final, meu enteado Pedro deu o  nome "Olha só", que além de ter tudo a ver com a dinamica dos agentes, também enfatiza a questão da independencia. 
 
 ## 🤖 Conheça a Turma de Agentes!
 
@@ -19,7 +19,7 @@ Nosso projeto possui muitos agentes super dedicados, cada um com uma missão vit
 
 1.  📸 **Agente de Importação de Fotos:** O pontapé inicial! Ele é o responsável por receber a foto que você quer que seja descrita. Pense nele como o porteiro digital que abre as portas para a imagem entrar no nosso sistema.
 2.  ✍️ **Agente Gerador de Descrição (Texto):** Esse é o nosso poeta visual! Utilizando o poder do Google Gemini, ele olha a foto (com olhos de IA, claro!) e transforma tudo que vê em um texto rico em detalhes, cores, ações e emoções. É como se a foto contasse a própria história, escrita por um super-narrador!
-3.  🎙️ **Agente Gerador de Áudio (MP3):** E para completar a festa, temos o dublador oficial! Ele pega o texto gerado pelo Agente 2 e o transforma em um arquivo de áudio MP3 claro e agradável de ouvir. Assim, a descrição da foto chega aos ouvidos de forma acessível e pronta para ser "consumida" a qualquer hora e lugar!
+3.  🎙️ **Agente Gerador de Áudio (MP3):** E para completar a festa, temos o dublador oficial! Ele pega o texto gerado pelo Agente 2 e o transforma em um arquivo de áudio MP3 claro e agradável de ouvir. Assim, a descrição da foto chega aos ouvidos de forma acessível em qualquer hora e lugar!
 
 Juntos, eles formam uma orquestra de IA que harmoniza imagem, texto e som para criar uma experiência inclusiva e fantástica!
 
@@ -85,13 +85,12 @@ O código reflete exatamente as etapas que aprendemos para construir agentes e u
 Este é apenas o começo! O potencial do "Olha só" é enorme. Algumas ideias para o futuro:
 
 * Permitir gerar descrição expandida, colocando informações extras sobre a foto, como exemplo: uma foto tirarda num museu mostrará uma descrição do autor da obra e a motivação e momento histórico que ela foi feita, com base em buscas qualificadas na web.
-* Criar uma interface mais amigável (uma web app, talvez).
+* Criar uma interface mais amigável (uma web app e mobile).
 * Permitir a descrição de múltiplos objetos em uma cena com interação (perguntar sobre um item específico).
 * Adicionar suporte a mais idiomas.
 * Integrar com assistentes de voz.
-* Gerar descrições em diferentes estilos (mais formal, mais divertido, inclusão de fundo musical, etc.).
+* Gerar descrições em diferentes estilos (mais formal, mais divertido, para crianças, para idosos, para pessoas com espectro autista, inclusão de fundo musical etc.).
 * Permitir interação contínua para refinar a descrição.
-
 
 Se você tiver alguma ideia, junte-se a nós!
 
@@ -103,7 +102,6 @@ Curtiu a ideia? Quer ajudar a tornar o "Olha só" ainda mais incrível? Suas con
 * Enviar Pull Requests com suas melhorias no código.
 
 Toda ajuda é um passo a mais para um mundo mais acessível!
-
 
 ## 📬 Contato
 
