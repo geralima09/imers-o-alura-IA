@@ -5,7 +5,7 @@ Olá! Seja muito bem-vindo(a) ao projeto "Olha só", onde a Inteligência Artifi
 
 ## 🤩 Qual é a Grande Ideia?
 
-Sabe aquela foto linda que você tirou ou aquela imagem que chegou no grupo da família? Ou ainda uma foto tirada num museu ou exposição que você esta visitando naquele momento? E se você não pudesse *vê-la*? Pois é! O "Olha só" nasce com um coração gigante para ajudar **pessoas cegas e com baixa visão** a também a se conectar a essas imagens.
+Sabe aquela foto linda que você tirou ou aquela imagem que chegou no grupo da família? Ou ainda uma foto em um museu ou exposição que você esta visitando naquele momento? E se você não pudesse *vê-la*? Pois é! O "Olha só" nasce com um coração gigante para ajudar **pessoas cegas e com baixa visão** a também a se conectar a essas imagens.
 
 Nosso objetivo é transformar a visualização de fotos em uma experiência auditiva completa e envolvente! Chega de barreiras na comunicação visual! Com o "Olha só", uma foto se transforma em uma audiodescrição detalhada e empolgante, permitindo que todos "vejam" e interajam com o mundo das imagens de uma forma mais fluida e autônoma. É a comunicação sem limites, turbinada pela IA! 😎
 
