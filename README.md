@@ -3,6 +3,8 @@
 
 Olá! Seja muito bem-vindo(a) ao projeto "Olha só", onde a Inteligência Artificial encontra a inclusão de um jeito super especial. 😄
 
+Fiz um video para você ter mais informações sobre o projeto: https://youtube.com/shorts/q5tZZpV_ho8 
+
 ## 🤩 Qual é a Grande Ideia?
 
 Sabe aquela foto linda que você tirou ou aquela imagem que chegou no grupo da família? Ou ainda uma foto em um museu ou exposição que você esta visitando naquele momento? E se você não pudesse *vê-la*? Pois é! O "Olha só" nasce com um coração gigante para ajudar **pessoas cegas e com baixa visão** a também a se conectar a essas imagens.
